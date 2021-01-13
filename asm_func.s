@@ -11,25 +11,6 @@
 		.global asm_func
 
 @ Start of executable code
-.section .text
-
-@ EE2028 Assignment 1, Sem 1, AY 2020/21
-@ (c) ECE NUS, 2020
-
-@ Write Student 1’s Name here: Jonathan Chua En Zhe (A0148165B)
-@ Write Student 2’s Name here: Tan Yan Quan (A0150128R)
-
-@ You could create a look-up table of registers here:
-@ R0: address of building array
-@ R1: address of discharge array
-@ R2: address of send_in array
-@ R3: address of result array
-@ R4: total number of rooms
-@ R5: RM_MAX
-@ R6: counter
-@ R7: number of remaining send_in patients
-
-@ write your program from here:
 asm_func:
 	PUSH {R4-R9, R14}
 	@ load F x R into R4 (total number of rooms)
