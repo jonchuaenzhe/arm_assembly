@@ -2,7 +2,6 @@
  * asm_func.s
  *
  *  Created on: 2020/8/30
- *      Author: Gu Jing
  */
    .syntax unified
 	.cpu cortex-m4
