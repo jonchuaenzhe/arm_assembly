@@ -14,4 +14,5 @@ To generate the resulted patient distribution, two rules need to be followed:
 
 Therefore, with the given numbers for this example and RM_MAX = 15, the expected patient distribution after this week represented by building[3][2] will be {{15,15}, {15,15}, {15,5}}.
 
+[![Fig 1](https://img.youtube.com/vi/ZdfPtCyzK9w/0.jpg)]
 
