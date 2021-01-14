@@ -17,3 +17,5 @@ Therefore, with the given numbers for this example and RM_MAX = 15, the expected
 Fig 1:
 ![Fig 1](https://github.com/jonchuaenzhe/arm_assembly/blob/main/Fig%201.png)
 
+# Objective
+The objective of this program is to develop an ARMv7-M assembly language function asm_fun() that generates and updates the quarantine facility building[ ][ ] in weekly basis after considering the discharged and new COVID-19 cases.
